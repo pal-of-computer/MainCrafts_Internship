@@ -117,9 +117,4 @@ set Grade = 'A'
 where Name = 'Rachit Yadav';
 -- it will update the grade to A from whatever it was in from of the give name that is 'Rachit Yadav'
 
--- Confirm the update:
-SELECT StudentID, Name, Grade
-FROM Students
-WHERE Name = 'Rachit Yadav';
-
 -- END OF TASK 1
